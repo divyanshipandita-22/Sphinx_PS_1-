@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Eco-Friendly Natural T-Shirt",
+      "description": "Our eco-friendly natural t-shirt is made with sustainable materials. We care about the planet and use green manufacturing processes. Join us in being environmentally conscious!",
+      "expected": "FAIL",
+      "category": "suspicious"
+    },
+    {
+      "name": "GOTS Certified Organic Cotton Shirt",
+      "description": "GOTS certified organic cotton shirt. 100% organic fibers, Fair Trade certified factory. Carbon neutral shipping with verified offsets. B Corporation certified.",
+      "expected": "PASS",
+      "category": "good"
+    },
+    {
+      "name": "Recycled Material Hoodie",
+      "description": "Made with 50% recycled polyester and 30% organic cotton. Working towards carbon neutrality. Partnering with ethical factories.",
+      "expected": "PENDING",
+      "category": "mixed"
+    },
+    {
+      "name": "Natural Skincare Product",
+      "description": "All-natural ingredients. Green packaging. Eco-conscious brand. Good for you and the environment!",
+      "expected": "FAIL",
+      "category": "suspicious"
+    },
+    {
+      "name": "Fair Trade Coffee",
+      "description": "Fair Trade Certified coffee beans. USDA Organic. Direct trade with farmers. Carbon neutral shipping.",
+      "expected": "PASS",
+      "category": "good"
+    }
+  ]
+}
